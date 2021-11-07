@@ -42,8 +42,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/m-zain/" target="_blank"><img src="https://img.shields.io/badge/-Umad%20Ahmad-brightgreen?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:muhammadzain8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-umadahmad1928%40gmail.com-informational?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/m-zain/" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Zain-brightgreen?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:muhammadzain8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-muhammadzain8%gmail.com-informational?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 <!-- 
@@ -53,11 +53,13 @@
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UAhmadSoft&repo=Color-Project-Frontend-React&theme=cobalt)](https://github.com/UAhmadSoft/Color-Project-Frontend-React) -->
 
-### [My Github Stats](https://github.com/muhammadzain8/my-github-stats)
+<!-- ### [My Github Stats](https://github.com/muhammadzain8/my-github-stats) -->
 
 ## Contribution Graph
 
-[![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhammadzain8&theme=react-dark)](https://github.com/muhammadzain8)
+s
+
+<!-- [![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhammadzain8&theme=react-dark)](https://github.com/muhammadzain8) -->
 
  <br>
 
