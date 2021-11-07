@@ -55,9 +55,7 @@
 
 ## Contribution Graph
 
-s
-
-<!-- [![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhammadzain8&theme=react-dark)](https://github.com/muhammadzain8) -->
+[![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhammadzain8&theme=react-dark)](https://github.com/muhammadzain8)
 
  <br>
 
