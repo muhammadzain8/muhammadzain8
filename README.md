@@ -33,17 +33,15 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Jupyter-Notebook] (https://img.shields.io/badge/-JupyterNotebook-red)
-
-  <br/>
-
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Jupyter-Notebook](https://img.shields.io/badge/-JupyterNotebook-red)
+<br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/m-zain/" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Zain-brightgreen?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:muhammadzain8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-muhammadzain8%gmail.com-informational?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:muhammadzain8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-muhammadzain8@gmail.com-informational?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 <!-- 
