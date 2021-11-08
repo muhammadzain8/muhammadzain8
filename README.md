@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; MERN Stack Developer ;
-- 🎓 &nbsp; Studying Software Engineering at International Islamic University Islamabad ;
+- 🎓 &nbsp; Software Engineering from International Islamic University Islamabad ;
 - 💼 &nbsp; Working as a Web Developer ;
 - ✍️ &nbsp; Always Learning New Technologies ;
 
