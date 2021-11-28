@@ -1,4 +1,4 @@
-<h2> Hey there! mu name  is zain i am A Software Engineer</h2>
+<h2> Hey there! my name  is zain i am A Software Engineer</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
