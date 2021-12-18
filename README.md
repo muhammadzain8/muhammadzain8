@@ -53,11 +53,11 @@
 
 <!-- ### [My Github Stats](https://github.com/muhammadzain8/my-github-stats) -->
 
-## Contribution Graph
-
+<!-- ## Contribution Graph -->
+<!-- 
 [![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhammadzain8&theme=react-dark)](https://github.com/muhammadzain8)
-
- <br>
+ -->
+<!--  <br> -->
 
 <a href="https://github.com/muhammadzain8/my-github-stats">
 
